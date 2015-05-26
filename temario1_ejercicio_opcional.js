@@ -11,6 +11,6 @@
 
 var numeroPi = Math.PI;
 var string = "Número PI con ocho decimales => " + numeroPi.toFixed(8);
-string = "\n\n";
+string += "\n\n";
 string += "Carácteres unicode: \u55e8\uff0c\u4f60\u597d\u5417";
 console.log(string);
