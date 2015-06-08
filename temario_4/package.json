@@ -1,0 +1,10 @@
+{
+  "name"         : "temario_4",
+  "version"      : "0.0.1",
+  "description"  : "ejercicio del temario 4",
+  "author"       : "Marcos Navarro",
+  "dependencies" : {
+    "express"    : "4.9.0",
+    "body-parser" : "1.12.4"
+  }
+}
